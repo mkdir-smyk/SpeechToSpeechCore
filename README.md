@@ -2,5 +2,9 @@ SpeechToSpeechCore is an offline voice AI that listens, understands, and respond
 
 
 
-https://github.com/user-attachments/assets/6eac75df-c882-4eb0-9617-57435e0e24e7
+
+
+
+https://github.com/user-attachments/assets/96b203fb-2a37-44ad-8639-1428d0f1f229
+
 
